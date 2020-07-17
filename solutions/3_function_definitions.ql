@@ -1,5 +1,5 @@
 import cpp
 
 from Function f
-where f.getName() = "gets"
-select f, "a function named gets"
+where f.getName() = "strlen"
+select f, "a function named strlen"
