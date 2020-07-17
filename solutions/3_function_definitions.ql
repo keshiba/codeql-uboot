@@ -1,5 +1,5 @@
 import cpp
 
 from Function f
-where f.getName() = "memset"
-select f, "a function named memset"
+where f.getName() = "gets"
+select f, "a function named gets"
